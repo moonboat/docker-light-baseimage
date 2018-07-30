@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.8
 MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
 
 COPY . /container
